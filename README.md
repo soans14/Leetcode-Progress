@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -33,10 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -68,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
