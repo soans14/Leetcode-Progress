@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
@@ -119,4 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
