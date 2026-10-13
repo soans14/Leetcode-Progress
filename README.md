@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +165,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
