@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
