@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
