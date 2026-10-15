@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
