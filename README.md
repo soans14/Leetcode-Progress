@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
