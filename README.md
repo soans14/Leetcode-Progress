@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
