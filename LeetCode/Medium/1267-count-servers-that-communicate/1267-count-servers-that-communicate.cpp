@@ -17,13 +17,8 @@ public:
             if(row[i]==1){
                 for(int j=0;j<c;j++){
                     if(grid[i][j]==1){
-                        for(int k=0;k<r;k++){
-                            if(grid[k][j]==1&&k!=i){
-                                break;
-                            }
-                            if(k==r-1){
-                                count--;
-                            }
+                        if(col[j]==1){
+                            count--;
                         }
                     }
                 }
