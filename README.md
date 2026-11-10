@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -240,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
