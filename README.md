@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -259,4 +262,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
