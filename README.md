@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1033-moving-stones-until-consecutive](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1033-moving-stones-until-consecutive/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1033-moving-stones-until-consecutive](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1033-moving-stones-until-consecutive/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
