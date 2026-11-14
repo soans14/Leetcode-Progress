@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
@@ -238,12 +241,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
@@ -320,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
