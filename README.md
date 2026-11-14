@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1227-airplane-seat-assignment-probability/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
