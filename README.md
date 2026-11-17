@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0537-complex-number-multiplication](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0498-diagonal-traverse/) | Medium |
+| [0537-complex-number-multiplication](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0537-complex-number-multiplication](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 | [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1033-moving-stones-until-consecutive](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1033-moving-stones-until-consecutive/) | Medium |
