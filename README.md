@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
