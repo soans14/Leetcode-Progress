@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0498-diagonal-traverse/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
