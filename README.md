@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0498-diagonal-traverse/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
+| [0735-asteroid-collision](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
+| [0735-asteroid-collision](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
