@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
@@ -370,4 +371,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
