@@ -1,13 +1,12 @@
 class ProductOfNumbers {
 public:
-    vector<int> product,zero,stream;
+    vector<int> product,zero;
     int temp=1,count=0,ans,size;
     ProductOfNumbers() {
         
     }
     
     void add(int num) {
-        stream.push_back(num);
         if(num==0){
             temp=1;
             product.push_back(0);
@@ -22,7 +21,7 @@ public:
     
     int getProduct(int k) {
         size=product.size();
-        if(size-1-k>=0&&zero[size-1]==zero[size-1-k]&&stream[size-k-1]!=0){
+        if(size-1-k>=0&&zero[size-1]==zero[size-1-k]&&product[size-k-1]!=0){
             return product[size-1]/product[size-1-k];
         }
         else if((size-k-1>=0&&zero[size-1]==zero[size-1-k])||(size-k-1<0&&zero[size-1]==0)){
