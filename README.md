@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/soans14/Leetcode-Progress/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
